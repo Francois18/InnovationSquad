@@ -1,2 +1,4 @@
 # InnovationSquad
-Innovation Squad Blog
+Innovation Squad Website
+
+Still in progress...
